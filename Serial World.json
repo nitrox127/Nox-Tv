@@ -1,1 +1,77 @@
-[{"Poster":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1132/661132-h","Title":"Star Plus","Url":"https://wserials.com/channel/star-plus/"},{"Poster":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1122/661122-h","Title":"Star Bharat","Url":"https://wserials.com/channel/star-bharat/"},{"Poster":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1133/661133-h","Title":"Star Pravah","Url":"https://wserials.com/channel/star-pravah/"},{"Poster":"https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/SETHD1_Landscape_Thumb.jpg","Title":"Sony TV","Url":"https://wserials.com/channel/sony-tv/"},{"Poster":"https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg","Title":"Sab TV","Url":"https://wserials.com/channel/sab-tv/"},{"Poster":"http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png","Title":"Zee TV","Url":"https://wserials.com/channel/zee-tv/"},{"Poster":"https://epcms.epicon.in/featured-images/1615399321-ishara-580x380-1-580x380.jpg","Title":"Ishara TV","Url":"https://wserials.com/channel/ishara-tv/"},{"Poster":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/Live-Tv-Channels-mtv-hd-1607514435690.jpg","Title":"MTV","Url":"https://wserials.com/channel/mtv/"},{"Poster":"http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png","Title":"And TV","Url":"https://wserials.com/channel/andtv/"},{"Poster":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/Live-Tv-Channels-Colors_HD-1607514544240.jpg","Title":"Colors TV","Url":"https://wserials.com/channel/colors/"},{"Poster":"http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png","Title":"Dangal TV","Url":"https://wserials.com/channel/dangal-tv/"},{"Poster":"https://variety.com/wp-content/uploads/2013/10/discovery_channel-logo.jpg","Title":"Discovery Channel","Url":"https://wserials.com/channel/discovery-channel/"},{},{"Poster":"http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png","Title":"Zee Yuva","Url":"https://wserials.com/channel/zee-yuva/"},{"Poster":"https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/Live-Tv-Channels-Colors-Marathi-HD-1607514570159.jpg","Title":"Colors Marathi","Url":"https://wserials.com/channel/colors-marathi/"},{"Poster":"https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMarathi1_Landscape_Thumb.jpg","Title":"Sony Marathi","Url":"https://wserials.com/channel/sony-marathi/"}]
+[
+  {
+    "Poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1132/661132-h",
+    "Title": "Star Plus",
+    "Url": "https://wserials.com/channel/star-plus/"
+  },
+  {
+    "Poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1122/661122-h",
+    "Title": "Star Bharat",
+    "Url": "https://wserials.com/channel/star-bharat/"
+  },
+  {
+    "Poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2x/sources/r1/cms/prod/1133/661133-h",
+    "Title": "Star Pravah",
+    "Url": "https://wserials.com/channel/star-pravah/"
+  },
+  {
+    "Poster": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/SETHD1_Landscape_Thumb.jpg",
+    "Title": "Sony TV",
+    "Url": "https://wserials.com/channel/sony-tv/"
+  },
+  {
+    "Poster": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg",
+    "Title": "Sab TV",
+    "Url": "https://wserials.com/channel/sab-tv/"
+  },
+  {
+    "Poster": "http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",
+    "Title": "Zee TV",
+    "Url": "https://wserials.com/channel/zee-tv/"
+  },
+  {
+    "Poster": "https://epcms.epicon.in/featured-images/1615399321-ishara-580x380-1-580x380.jpg",
+    "Title": "Ishara TV",
+    "Url": "https://wserials.com/channel/ishara-tv/"
+  },
+  {
+    "Poster": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/Live-Tv-Channels-mtv-hd-1607514435690.jpg",
+    "Title": "MTV",
+    "Url": "https://wserials.com/channel/mtv/"
+  },
+  {
+    "Poster": "http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",
+    "Title": "And TV",
+    "Url": "https://wserials.com/channel/andtv/"
+  },
+  {
+    "Poster": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/Live-Tv-Channels-Colors_HD-1607514544240.jpg",
+    "Title": "Colors TV",
+    "Url": "https://wserials.com/channel/colors/"
+  },
+  {
+    "Poster": "http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",
+    "Title": "Dangal TV",
+    "Url": "https://wserials.com/channel/dangal-tv/"
+  },
+  {
+    "Poster": "https://variety.com/wp-content/uploads/2013/10/discovery_channel-logo.jpg",
+    "Title": "Discovery Channel",
+    "Url": "https://wserials.com/channel/discovery-channel/"
+  },
+  {
+    "Poster": "http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",
+    "Title": "Zee Yuva",
+    "Url": "https://wserials.com/channel/zee-yuva/"
+  },
+  {
+    "Poster": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/Live-Tv-Channels-Colors-Marathi-HD-1607514570159.jpg",
+    "Title": "Colors Marathi",
+    "Url": "https://wserials.com/channel/colors-marathi/"
+  },
+  {
+    "Poster": "https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_contrast:30,f_auto,h_394,q_auto:low,w_708/e_brightness:10/https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMarathi1_Landscape_Thumb.jpg",
+    "Title": "Sony Marathi",
+    "Url": "https://wserials.com/channel/sony-marathi/"
+  }
+]
